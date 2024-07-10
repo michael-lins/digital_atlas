@@ -208,6 +208,7 @@ return [
         App\Widgets\MedianAge\MedianAgeServiceProvider::class,
         App\Widgets\Twitter\TwitterServiceProvider::class,
         App\Widgets\YouTubePopularVideos\YouTubePopularVideosServiceProvider::class,
+        App\Widgets\Refugees\RefugeesServiceProvider::class,
     ],
 
     /*
