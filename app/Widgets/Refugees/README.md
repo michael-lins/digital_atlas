@@ -1,6 +1,9 @@
 # Refugees for Digital Atlas
 
-This Refugees was designed for the Digital Atlas.  It ...
+This Refugees widget was designed for the Digital Atlas.  It is composed of:
+- a line graph with the total number of refugees in asylum at current country distributed in the last five years.
+- a pie chart for the current year with refugees' countries of origin distribution in percentage.
+- a table containing the total of refugees regarding current country and year, distributed by country of origin, gender (male/female) and total sum.
 
 ## Dependencies
 
