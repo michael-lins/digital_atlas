@@ -27,6 +27,7 @@
         @asyncWidget('App\Widgets\TopSocialPlatforms\TopSocialPlatformsWidget', [], $country)
         @asyncWidget('App\Widgets\UrbanPopulation\UrbanPopulationWidget', [], $country)
         @asyncWidget('App\Widgets\MedianAge\MedianAgeWidget', [], $country)
+        @asyncWidget('App\Widgets\Refugees\RefugeesWidget', [], $country)
     </div>
 @stop
 
